@@ -1,0 +1,15 @@
+{
+  "name": "com.realseriousgames.csharppromises",
+  "version": "3.0.1",
+  "displayName": "C Sharp Promise",
+  "description": "Promises library for C# for management of asynchronous operations.",
+  "unity": "2019.1",
+  "keywords": [
+    "Promise"
+  ],
+  "author": {
+    "name": "Real Serious Games",
+    "email": "info@realseriousgames.com",
+    "url": "http://www.realseriousgames.com/"
+  }
+}
